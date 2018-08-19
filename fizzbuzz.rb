@@ -2,10 +2,10 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(x)
-  if x % 3 = 0 
+  if x % 3 == 0 
     "Fizz"
   end
-  if x % 5 = 0 
+  if x % 5 == 0 
     "Buzz"
   end
   if x % 5 = 0 && x % 3 = 0

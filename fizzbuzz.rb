@@ -3,13 +3,13 @@
 
 def fizzbuzz(x)
   if x % 3 == 0 
-    "Fizz"
+    print "Fizz"
   end
   if x % 5 ==  0 
-    "Buzz"
+    print "Buzz"
   end
   if x % 5 == 0 && x % 3 == 0
-    "FizzBuzz"
+    print "FizzBuzz"
   end
 else
   nil

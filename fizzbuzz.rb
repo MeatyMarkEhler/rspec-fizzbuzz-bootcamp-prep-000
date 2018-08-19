@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(x)
-  if  % 3 
+  if  x%3=0 
     print "Fizz"
   end
   if x % 5 ==  0 
